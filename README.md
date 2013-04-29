@@ -5,7 +5,7 @@ Django widgets and field for getting bootstrap-timepicker and bootstrap-datepick
 ### Usage
 
 1. Include the JS and CSS from bootstrap-timepicker and bootstrap-datepicker (see below)
-2. Include widgets.py and fields.py somewhere in your code.
+2. install via pip using `pip install -e git://github.com/stholmes/django-bootstrap-datetime-widgets.git#egg=bootstrap-datetime-widgets`
 3. See static/example.js for example jQuery implementation.
 4. See forms.py for example usage, e.g.
 
